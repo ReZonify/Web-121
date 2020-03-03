@@ -5,7 +5,7 @@ html {
 }
 
 main.wrapper {
-    background-color:#fff;
+    background-color:gray;
     overflow:auto;
 }
 
@@ -42,14 +42,13 @@ div.embed-container iframe {
 
 footer {
     clear:both;
+    margin-left: 40%;
 }
 
 /* START RESPONSIVE STYLES */
 
 /* DESKTOP */
-@media all and (min-width:1400px) {
-    
-    }
+@media all and (min-width:1024px) {
     
    main.wrapper {
         width:80%;
@@ -57,12 +56,13 @@ footer {
     }
 
     section {
-        width:60%;
-        float:right;
+        width:70%;
+        float:left;
+        padding: 10px;
     }
     
      aside {    
-        width:34%;
+        width:25%;
         float:right;
     }
             
@@ -85,7 +85,7 @@ footer {
 
 
 /* TABLET */
-@media all and (min-width:735px) and (max-width:1399px) {
+@media all and (min-width:735px) and (max-width:1023px) {
     
     section {
         width:60%;
