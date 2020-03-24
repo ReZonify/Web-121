@@ -41,13 +41,13 @@ switch(THIS_PAGE)
     $PageID = 'Galleries';
     break;
         
-    case 'shoppingcart.php':
+    case 'shoppingcarts.php':
     $title = "Research";
     $logo = "fa-paper-plane-o";
     $PageID = 'Shopping';
     break;
     
-    case 'svapp.php':
+    case 'siteapp.php':
     $title = "Research";
     $logo = "fa-paper-plane-o";
     $PageID = 'Mobile v Responsive';
@@ -83,8 +83,6 @@ switch(THIS_PAGE)
     $logo = '';//no icon by default
     $PageID = 'Welcome';
 }
-
-
 
 
 

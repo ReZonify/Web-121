@@ -146,7 +146,7 @@
   width: 200px;
   z-index: 1;
 }
-@media all and (max-width: 480px) {
+@media all and (max-width: 600px) {
   #cssmenu ul ul {
     position: relative;
     top: 0;

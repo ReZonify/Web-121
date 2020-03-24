@@ -1,8 +1,7 @@
-<?php include 'config.php'?> 
 <!doctype html>
 <html>
 <head>
-<title>Free Samples</title>
+<title>BIG Project</title>
     <meta name="viewport" content="width=device-width" />
     <meta name="robots" content="noindex,nofollow" />
     <meta charset="utf-8">
@@ -11,6 +10,7 @@
     <link rel="stylesheet" href="css/big.css" />
     <link rel="stylesheet" href="css/form.css" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Armata' rel='stylesheet'>
 
     <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <script src="https://s3.amazonaws.com/menumaker/menumaker.min.js" type="text/javascript"></script>
@@ -21,7 +21,7 @@
 <!-- BEGIN WRAPPER -->
 <div class="wrapper">
 <header>
-  <h1><a href="index.php"><i class="logo fa fa-home"></i></a></h1>
+  <h1><a href="index.php"><i class="logo fa fa-home"></i></a> Will's BIG Project</h1>
   <nav id="cssmenu">
   <ul>
      <li><a href="../index.php"><span><i class="fa fa-fw fa-bank"></i> WEB120</span></a></li>
@@ -44,4 +44,4 @@
         
 <!-- START LEFT COL -->
 <section>
- <h2 class="pageID">Welcome</h2>
+ 
